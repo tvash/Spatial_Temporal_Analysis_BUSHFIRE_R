@@ -2,7 +2,7 @@
 
 ![alt text]( bushfire.gif "Logo Title Text 1")
 
-## Introduction -
+## Introduction:
 _______
 2020 has been highly unpredictable interms the even that has been happening recently. One such unfortunate event was the bushfire that happened around the world this year. Especially the one that has happened in Australia which almost enveloped most part of Australia leaving a lot of damage behind interms of livelyhood, vegetation loss and lives lost. Though there were a lot of firefighter that were tasked at bringing the fire under controls they could at best mitigate the damages of the fires than to completely stop it which was due to the vastness of the problem. The fire in Australia was majorly caused due climatic changes and in general the earth becoming hotter. We can say that there would be more such bushfire to be expected around the world and in Austrlia.
 
@@ -31,7 +31,7 @@ options(warn=-1)
 ```
 
 
-## Preliminary - 
+## Preliminary :
 -----------
 ### This project tasks us with the responsiblity of completeing an Exploratory Data Analysis and consequently building a Model from the selected features to accurately predict the area of the forest fires using some predictors variables like (FFMC, ISI, rain, DMC, DC, temp, wind, month, day)
 There for what we are trying to do is create a model that minizes the rss or maximizes r2 values for model where:
