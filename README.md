@@ -28,6 +28,7 @@ What this project aims at achieving is to effectively predict bushfire in the fu
 The options was get to -1 so as to not show the warning that can come due to discrepancy between libraries or warnings generated due to depreceation of some functions in libraries that we might not be using this is completely _optional_.
 ```r
 options(warn=-1)
+set.sed(137) #137 is the golden quantum number (a lil nerd)
 ```
 
 
